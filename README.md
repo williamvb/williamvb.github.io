@@ -4,24 +4,24 @@ O site foi construido utilizando como baso o thema [Agency](https://startbootstr
 
 ## Modificações Pendentes
 
-1. [x] Capa
+1. Capa
   - [x] Imagem
   - [x] Fundo
   - [x] Descrição
   - [x] Links
-2. [ ] Sobre
+2. Sobre
   - [ ] Descrição
   - [ ] Blocos
   - [ ] Icones dos blocos
   - [x] Download CV
-3. [ ] Timeline
+3. Timeline
   - [x] Logos
   - [x] Descrição
-4. [ ] Portifólio
+4. Portifólio
   - [ ] Imagens
   - [ ] Modais
   - [ ] Textos dos modais
-5. [x] Contato
+5. Contato
   - [x] Redes Sociais
   - [x] Links
 
