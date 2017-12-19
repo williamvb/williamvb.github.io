@@ -18,9 +18,9 @@ O site foi construido utilizando como baso o thema [Agency](https://startbootstr
   - [x] Logos
   - [x] Descrição
 4. Portifólio
-  - [ ] Imagens
-  - [ ] Modais
-  - [ ] Textos dos modais
+  - [x] Imagens
+  - [x] Modais
+  - [x] Textos dos modais
 5. Contato
   - [x] Redes Sociais
   - [x] Links
