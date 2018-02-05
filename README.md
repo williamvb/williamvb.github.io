@@ -10,9 +10,9 @@ O site foi construido utilizando como baso o thema [Agency](https://startbootstr
   - [x] Descrição
   - [x] Links
 2. Sobre
-  - [ ] Descrição
-  - [ ] Blocos
-  - [ ] Icones dos blocos
+  - [x] Descrição
+  - [x] Blocos
+  - [x] Icones dos blocos
   - [x] Download CV
 3. Timeline
   - [x] Logos
